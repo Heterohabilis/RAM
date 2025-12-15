@@ -7,10 +7,10 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _CoT and RL_
 
-- **AggLM** [[paper]](https://arxiv.org/abs/2509.06870) [[tweets]](https://x.com/jaseweston/status/1965233976949543194) []
+- [X] **AggLM** [[paper]](https://arxiv.org/abs/2509.06870) [[tweets]](https://x.com/jaseweston/status/1965233976949543194)
   _Uses RL to train an LLM solution aggregator, with strong results_.
 
-- **RESTRAIN** [[paper]](https://arxiv.org/abs/2510.02172) [[tweets]](https://x.com/jaseweston/status/1974000962219225271)
+- [X] **RESTRAIN** [[paper]](https://arxiv.org/abs/2510.02172) [[tweets]](https://x.com/jaseweston/status/1974000962219225271)
   _Self-training RL method that improves over other label-free / test-time training methods_.
 
 - **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
