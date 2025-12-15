@@ -13,7 +13,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **RESTRAIN** [[paper]](https://arxiv.org/abs/2510.02172) [[tweets]](https://x.com/jaseweston/status/1974000962219225271)
   _Self-training RL method that improves over other label-free / test-time training methods_.
 
-- **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
+- [X] **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
   _Stepwise Generative Judge trained with RL. SOTA on ProcessBench; gains at when used at train/test time_.
   
 - **OptimalThinkingBench** [[project]](otb) [[paper]](https://arxiv.org/abs/2508.13141).
