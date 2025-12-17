@@ -16,7 +16,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
   _Stepwise Generative Judge trained with RL. SOTA on ProcessBench; gains at when used at train/test time_.
   
-- **OptimalThinkingBench** [[project]](otb) [[paper]](https://arxiv.org/abs/2508.13141).
+- [X] **OptimalThinkingBench** [[project]](otb) [[paper]](https://arxiv.org/abs/2508.13141).
   _New benchmark measuring overthinking & underthinking of LLMs_.
 
 - **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
