@@ -143,7 +143,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
   
 #### _synthetic data for complex reasoning & tools_
 
-- **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
+- [X] **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
   _Challenger creates tasks grounded on documents, Reasoner solves them in self-play, both trained by RL_.
   
 - **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
