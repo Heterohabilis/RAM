@@ -146,7 +146,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
   _Challenger creates tasks grounded on documents, Reasoner solves them in self-play, both trained by RL_.
   
-- **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
+- [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
   _LLM creates own challenging agentic tool-use tasks, resulting in better agentic performance_.
   
 - **NaturalReasoning: Reasoning in the Wild with 2.8M Challenging Questions** [[paper]](https://arxiv.org/abs/2502.13124).
@@ -163,7 +163,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _(self-)alignment optimization techniques_
 
-- **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
+- [X] **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
   _Challenger creates tasks grounded on documents, Reasoner solves them in self-play, both trained by RL_.
 
 - **WaltzRL** [[paper]](https://arxiv.org/abs/2510.08240) [[tweets]](https://x.com/jaseweston/status/1978185306999341256)
