@@ -106,7 +106,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
   
 ## Agents
 
-- **Experience Synthesis** [[paper]](https://arxiv.org/abs/2511.03773) [[tweets]](https://x.com/jaseweston/status/1986613046047846569).
+- [X] **Experience Synthesis** [[paper]](https://arxiv.org/abs/2511.03773) [[tweets]](https://x.com/jaseweston/status/1986613046047846569).
   _Scaling training environments for RL by simulating them with reasoning LLMs_
 
 - **Early Experience** [[paper]](https://arxiv.org/abs/2510.08558) [[tweets]](https://x.com/jaseweston/status/1979179944258265358).
