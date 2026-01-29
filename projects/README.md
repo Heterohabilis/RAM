@@ -25,7 +25,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **ASTRO** [[paper]](https://arxiv.org/abs/2507.00417).
   _Teaching LLMs to reason by reflecting and backtracking in-context_.
 
-- **NaturalThoughts** [[paper]](https://arxiv.org/abs/2507.01921).
+- [X] **NaturalThoughts** [[paper]](https://arxiv.org/abs/2507.01921).
   _Creates better CoT distillation emphasizing difficult and diverse reasoning_.
 
 - **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
