@@ -175,7 +175,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
   _Method to optimize quality+diversity reward to give gains on each over conventional GRPO RL_
 
-- **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
+- [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
   _LLM creates own challenging agentic tool-use tasks, resulting in better agentic performance_.
 
 - **Solve & Verify** [[paper]](https://arxiv.org/abs/2502.14948).
