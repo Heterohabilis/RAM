@@ -112,7 +112,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Early Experience** [[paper]](https://arxiv.org/abs/2510.08558) [[tweets]](https://x.com/jaseweston/status/1979179944258265358).
   _SFT is sparse; RL on long-horizons is hard. EE provides new mid-training signals that help_
   
-- **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
+- [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
   _LLM creates own challenging agentic tool-use tasks, resulting in better agentic pe
 
 - **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
