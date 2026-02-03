@@ -100,7 +100,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Branch-Solve-Merge** [[paper]](https://arxiv.org/abs/2310.15123).
   _Reasoning method to improve LLM Evaluation and Generation._
 
-- **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
+- [X] **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
   _Shows LLMs can judge themselves to self-improve without human feedback._
 
   
@@ -202,7 +202,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Length Following** [[project]](length_instruct)
   _Method to make LLMs follow length instructions much better & removing length bias in evaluations._
 
-- **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
+- [X] **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
   _Shows LLMs can judge themselves to self-improve without human feedback._
 
 - **Iterative DPO & Cringe Loss** [[paper]](https://arxiv.org/abs/2312.16682)
