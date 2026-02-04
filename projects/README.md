@@ -71,7 +71,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Ask, Refine, Trust** [[paper]](https://arxiv.org/abs/2311.07961).
   _Technique that uses critical questions to determine if an LLM generation needs refinement._
 
-- **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
+- [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
   _Generalization to New Tools via Self-Verification._
 
 ## Reward Models & Evaluation
@@ -118,7 +118,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
   _Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks._
 
-- **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
+- [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
   _Generalization to New Tools via Self-Verification._
 
 
@@ -155,7 +155,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Source2Synth** [[paper]](https://arxiv.org/abs/2409.08239).
   _Generating synthetic data from real sources to improve LLMs on complex reasoning tasks._
 
-- **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
+- [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
   _Generalization to New Tools via Self-Verification._
 
 
