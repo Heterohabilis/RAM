@@ -82,7 +82,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
   _Stepwise Generative Judge trained with RL. SOTA on ProcessBench; gains at when used at train/test time_.
 
-- **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
+- [X] **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
   _Method to optimize quality+diversity reward to give gains on each over conventional GRPO RL_
   
 - **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
@@ -172,7 +172,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [x] **RLHI** [[paper]](https://x.com/jaseweston/status/1972851921255051489) [[tweets]](https://x.com/jaseweston/status/1972851921255051489)
   _Method to RL train from organic Human Interaction (aka RLHI) which helps_.
 
-- **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
+- [X] **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
   _Method to optimize quality+diversity reward to give gains on each over conventional GRPO RL_
 
 - [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
