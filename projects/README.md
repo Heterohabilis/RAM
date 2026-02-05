@@ -178,7 +178,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
   _LLM creates own challenging agentic tool-use tasks, resulting in better agentic performance_.
 
-- **Solve & Verify** [[paper]](https://arxiv.org/abs/2502.14948).
+- [X] **Solve & Verify** [[paper]](https://arxiv.org/abs/2502.14948).
   _A self-play framework for LLMs to learn how to code by writing code & unit tests_.
 
 - **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
