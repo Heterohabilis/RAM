@@ -19,7 +19,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **OptimalThinkingBench** [[project]](otb) [[paper]](https://arxiv.org/abs/2508.13141).
   _New benchmark measuring overthinking & underthinking of LLMs_.
 
-- **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
+- [X] **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
   _Shows how to learn CoTs that improve factuality via a new reward function_.
 
 - **ASTRO** [[paper]](https://arxiv.org/abs/2507.00417).
@@ -85,7 +85,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
   _Method to optimize quality+diversity reward to give gains on each over conventional GRPO RL_
   
-- **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
+- [X] **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
   _Shows how to learn CoTs that improve factuality via a new reward function_.
   
 - **J1** [[paper]](https://arxiv.org/abs/2505.10320).
