@@ -129,7 +129,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **CoT-Self-Instruct** [[paper]](https://arxiv.org/abs/2507.23751)
   _Create synthetic data using reasoning followed by filtering for high quality, for large gains._
 
-- **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
+- [x] **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
   _A method to *curate* high quality data, or *create* high quality synthetic data. Gives large improvements._
   
 - **Recycling the Web** [[paper]](https://arxiv.org/abs/2506.04689)
@@ -221,7 +221,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _data curation_
 
-- **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
+- [x] **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
   _A method to *curate* high quality data, or *create* high quality synthetic data. Gives large improvements._
 
 ## Memory & Architectures
