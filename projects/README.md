@@ -48,7 +48,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **System 2 Distillation** [[paper]](https://arxiv.org/abs/2407.06023).
   _Distilling reasoning traces (System 2) back into the Transformer (System 1)._
 
-- **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
+- [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
   _Better Planning with Transformers via Search Dynamics Bootstrapping._
 
 - **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
@@ -62,7 +62,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **System 2 Attention** [[paper]](https://arxiv.org/abs/2311.11829).
   _Make LLM plan what it attends to as a generative process, decreasing bias & increasing factuality._
 
-- **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
+- [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
   _Better Planning with Transformers via Search Dynamics Bootstrapping._
 
 - **Chain-of-Verification Reduces Hallucination** [[paper]](https://arxiv.org/abs/2309.11495).
