@@ -109,7 +109,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Experience Synthesis** [[paper]](https://arxiv.org/abs/2511.03773) [[tweets]](https://x.com/jaseweston/status/1986613046047846569).
   _Scaling training environments for RL by simulating them with reasoning LLMs_
 
-- **Early Experience** [[paper]](https://arxiv.org/abs/2510.08558) [[tweets]](https://x.com/jaseweston/status/1979179944258265358).
+- [X] **Early Experience** [[paper]](https://arxiv.org/abs/2510.08558) [[tweets]](https://x.com/jaseweston/status/1979179944258265358).
   _SFT is sparse; RL on long-horizons is hard. EE provides new mid-training signals that help_
   
 - [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
