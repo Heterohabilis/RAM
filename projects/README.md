@@ -68,7 +68,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Chain-of-Verification Reduces Hallucination** [[paper]](https://arxiv.org/abs/2309.11495).
   _Reduces hallucination by LLM self-identifying and verifying generated facts._
 
-- **Ask, Refine, Trust** [[paper]](https://arxiv.org/abs/2311.07961).
+- [X] **Ask, Refine, Trust** [[paper]](https://arxiv.org/abs/2311.07961).
   _Technique that uses critical questions to determine if an LLM generation needs refinement._
 
 - [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
