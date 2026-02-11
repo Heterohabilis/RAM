@@ -31,7 +31,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
   _Mix verifiable & non-verifiable tasks, comparing semi-online DPO & GRPO (similar results)_.
 
-- **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
+- [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
   _Train LLMs to write down its internal thoughts for general instructions (non-verifiable tasks)._
 
 - **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
@@ -190,7 +190,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Self-Consistency Preference Optimization** [[paper]](https://arxiv.org/abs/2411.04109)
   _self-training without human labels that matches supervised training performance._
 
-- **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
+- [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
   _Train LLMs to write down its internal thoughts before responding to general instructions._
 
 - **Meta-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2407.19594)
