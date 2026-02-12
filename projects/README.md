@@ -34,7 +34,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
   _Train LLMs to write down its internal thoughts for general instructions (non-verifiable tasks)._
 
-- **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
+- [X] **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
   _Shows how to use iterative optimization to train CoTs on verifiable tasks._
 
 #### _other algorithms_
@@ -196,7 +196,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Meta-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2407.19594)
   _LLMs that can judge their own judgments to self-improve both acting & evaluating actions._
 
-- **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
+- [X] **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
   _Shows how to improve reasoning tasks with iterative DPO._
 
 - **Length Following** [[project]](length_instruct)
