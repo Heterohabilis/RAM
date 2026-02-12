@@ -28,7 +28,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **NaturalThoughts** [[paper]](https://arxiv.org/abs/2507.01921).
   _Creates better CoT distillation emphasizing difficult and diverse reasoning_.
 
-- **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
+- [X] **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
   _Mix verifiable & non-verifiable tasks, comparing semi-online DPO & GRPO (similar results)_.
 
 - [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
@@ -181,7 +181,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Solve & Verify** [[paper]](https://arxiv.org/abs/2502.14948).
   _A self-play framework for LLMs to learn how to code by writing code & unit tests_.
 
-- **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
+- [X] **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
   _Mix verifiable & non-verifiable tasks, comparing semi-online DPO & GRPO (similar results)_.
 
 - **Diversity Preference Optimization** [[paper]](https://arxiv.org/abs/2501.18101)
