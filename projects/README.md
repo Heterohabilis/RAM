@@ -22,7 +22,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
   _Shows how to learn CoTs that improve factuality via a new reward function_.
 
-- **ASTRO** [[paper]](https://arxiv.org/abs/2507.00417).
+- [X] **ASTRO** [[paper]](https://arxiv.org/abs/2507.00417).
   _Teaching LLMs to reason by reflecting and backtracking in-context_.
 
 - [X] **NaturalThoughts** [[paper]](https://arxiv.org/abs/2507.01921).
