@@ -51,7 +51,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
   _Better Planning with Transformers via Search Dynamics Bootstrapping._
 
-- **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
+- [X] **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
   _Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks._
 
 #### _inference_
@@ -115,7 +115,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Self-Challenging LLM Agents** [[paper]](https://arxiv.org/abs/2506.01716).
   _LLM creates own challenging agentic tool-use tasks, resulting in better agentic pe
 
-- **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
+- [X] **SWEET-RL** [[project]](https://github.com/facebookresearch/sweet_rl).
   _Training Multi-Turn LLM Agents on Collaborative Reasoning Tasks._
 
 - [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
