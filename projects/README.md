@@ -45,7 +45,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Backtracking Improves Generation Safety** [[paper]](https://arxiv.org/abs/2409.14586).
   _Trains LLMs to generate a RESET token if the partial-generation is bad._
 
-- **System 2 Distillation** [[paper]](https://arxiv.org/abs/2407.06023).
+- [X] **System 2 Distillation** [[paper]](https://arxiv.org/abs/2407.06023).
   _Distilling reasoning traces (System 2) back into the Transformer (System 1)._
 
 - [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
@@ -59,7 +59,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **From decoding to meta-generation** [[paper]](https://arxiv.org/abs/2406.16838).
   _Survey paper on reasoning methods._
 
-- **System 2 Attention** [[paper]](https://arxiv.org/abs/2311.11829).
+- [X] **System 2 Attention** [[paper]](https://arxiv.org/abs/2311.11829).
   _Make LLM plan what it attends to as a generative process, decreasing bias & increasing factuality._
 
 - [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
