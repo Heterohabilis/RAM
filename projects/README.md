@@ -231,7 +231,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Reverse Training** [[paper]](https://arxiv.org/abs/2403.13799)
   _Method for pretraining that helps the reversal curse & improves performance._
 
-- **MemWalker** [[paper]](https://arxiv.org/abs/2310.05029)
+- [X] **MemWalker** [[paper]](https://arxiv.org/abs/2310.05029)
   _Novel memory architecture: builds & navigates a tree (structured long-term memory) via LLM prompting._
 
 - [X] **Self-Notes** [[project]](self_notes)
