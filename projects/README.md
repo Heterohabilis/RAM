@@ -184,7 +184,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Bridging Online and Offline RL** [[paper]](https://arxiv.org/abs/2506.21495).
   _Mix verifiable & non-verifiable tasks, comparing semi-online DPO & GRPO (similar results)_.
 
-- **Diversity Preference Optimization** [[paper]](https://arxiv.org/abs/2501.18101)
+- [X] **Diversity Preference Optimization** [[paper]](https://arxiv.org/abs/2501.18101)
   _SOTA LLMs have model collapse. DivPO training improves diversity with similar quality._
 
 - **Self-Consistency Preference Optimization** [[paper]](https://arxiv.org/abs/2411.04109)
