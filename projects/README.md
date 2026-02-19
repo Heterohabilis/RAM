@@ -88,7 +88,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Reasoning for Factuality** [[paper]](https://www.arxiv.org/abs/2508.05618).
   _Shows how to learn CoTs that improve factuality via a new reward function_.
   
-- **J1** [[paper]](https://arxiv.org/abs/2505.10320).
+- [X] **J1** [[paper]](https://arxiv.org/abs/2505.10320).
   _Learns CoTs for LLM-as-a-Judge via GRPO, outperforms EvalPlanner & Distilled R1 models at 8B and 70B scale._
 
 - **Eval-Planner** [[paper]](https://arxiv.org/abs/2501.18099)).
