@@ -138,7 +138,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
   _Improves Instruction Backtranslation by rewriting the web document._
 
-- **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
+- [X] **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
   _Self-Alignment method by predicting instructions for web documents._
   
 #### _synthetic data for complex reasoning & tools_
@@ -213,7 +213,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
   _Improves Instruction Backtranslation by rewriting the web document._
 
-- **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
+- [X] **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
   _Self-Alignment method by predicting instructions for web documents._
 
 - **Leveraging Implicit Feedback** [[paper]](https://arxiv.org/abs/2307.14117)
