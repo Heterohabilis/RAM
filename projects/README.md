@@ -135,7 +135,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Recycling the Web** [[paper]](https://arxiv.org/abs/2506.04689)
   _A method to create more high quality pretraining data via rewriting low quality documents._
   
-- **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
+- [X] **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
   _Improves Instruction Backtranslation by rewriting the web document._
 
 - [X] **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
@@ -210,7 +210,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _(self-)alignment via other methods_
 
-- **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
+- [X] **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
   _Improves Instruction Backtranslation by rewriting the web document._
 
 - [X] **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
