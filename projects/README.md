@@ -152,7 +152,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **NaturalReasoning**: Reasoning in the Wild with 2.8M Challenging Questions** [[paper]](https://arxiv.org/abs/2502.13124).
   _Scaling reasoning capabilities with diverse and high-quality questions._
 
-- **Source2Synth** [[paper]](https://arxiv.org/abs/2409.08239).
+- [X] **Source2Synth** [[paper]](https://arxiv.org/abs/2409.08239).
   _Generating synthetic data from real sources to improve LLMs on complex reasoning tasks._
 
 - [X] **ToolVerifier** [[paper]](https://arxiv.org/abs/2402.14158).
