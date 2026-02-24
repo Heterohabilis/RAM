@@ -79,7 +79,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **HERO** [[paper]](https://arxiv.org/abs/2510.07242) [[tweets]](https://x.com/jaseweston/status/1977756142571864539)
   _Combines sparse verifiable and dense RMs into a hybrid reward to give better results_.
 
-- **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
+- [X] **StepWiser** [[paper]](https://arxiv.org/abs/2508.19229)
   _Stepwise Generative Judge trained with RL. SOTA on ProcessBench; gains at when used at train/test time_.
 
 - [X] **DARLING** [[paper]](https://arxiv.org/abs/2509.02534)
