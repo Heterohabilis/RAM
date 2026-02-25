@@ -42,7 +42,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - **Coconut (Continuous Chain-of-Thought)*** [[project]](https://github.com/facebookresearch/coconut).
   _Training LLMs to reason in continuous latent space (rather than using language)._
 
-- **Backtracking Improves Generation Safety** [[paper]](https://arxiv.org/abs/2409.14586).
+- [X] **Backtracking Improves Generation Safety** [[paper]](https://arxiv.org/abs/2409.14586).
   _Trains LLMs to generate a RESET token if the partial-generation is bad._
 
 - [X] **System 2 Distillation** [[paper]](https://arxiv.org/abs/2407.06023).
