@@ -39,7 +39,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _other algorithms_
 
-- **Coconut (Continuous Chain-of-Thought)*** [[project]](https://github.com/facebookresearch/coconut).
+- [X] **Coconut (Continuous Chain-of-Thought)*** [[project]](https://github.com/facebookresearch/coconut).
   _Training LLMs to reason in continuous latent space (rather than using language)._
 
 - [X] **Backtracking Improves Generation Safety** [[paper]](https://arxiv.org/abs/2409.14586).
