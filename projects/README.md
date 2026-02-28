@@ -65,7 +65,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Beyond A*** [[paper]](https://arxiv.org/abs/2402.14083).
   _Better Planning with Transformers via Search Dynamics Bootstrapping._
 
-- **Chain-of-Verification Reduces Hallucination** [[paper]](https://arxiv.org/abs/2309.11495).
+- [X] **Chain-of-Verification Reduces Hallucination** [[paper]](https://arxiv.org/abs/2309.11495).
   _Reduces hallucination by LLM self-identifying and verifying generated facts._
 
 - [X] **Ask, Refine, Trust** [[paper]](https://arxiv.org/abs/2311.07961).
