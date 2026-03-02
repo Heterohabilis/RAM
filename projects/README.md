@@ -187,7 +187,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Diversity Preference Optimization** [[paper]](https://arxiv.org/abs/2501.18101)
   _SOTA LLMs have model collapse. DivPO training improves diversity with similar quality._
 
-- **Self-Consistency Preference Optimization** [[paper]](https://arxiv.org/abs/2411.04109)
+- [X] **Self-Consistency Preference Optimization** [[paper]](https://arxiv.org/abs/2411.04109)
   _self-training without human labels that matches supervised training performance._
 
 - [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
