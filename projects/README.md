@@ -216,7 +216,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Instruction Backtranslation** [[paper]](https://arxiv.org/abs/2308.06259)
   _Self-Alignment method by predicting instructions for web documents._
 
-- **Leveraging Implicit Feedback** [[paper]](https://arxiv.org/abs/2307.14117)
+- [X] **Leveraging Implicit Feedback** [[paper]](https://arxiv.org/abs/2307.14117)
   _Method to learn from human feedback in dialogue deployment data to improve LLM._
 
 #### _data curation_
