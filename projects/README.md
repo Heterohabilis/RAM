@@ -166,7 +166,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **SPICE** [[paper]](https://arxiv.org/abs/2510.24684) [[tweets]](https://x.com/jaseweston/status/1983343787465150814).
   _Challenger creates tasks grounded on documents, Reasoner solves them in self-play, both trained by RL_.
 
-- **WaltzRL** [[paper]](https://arxiv.org/abs/2510.08240) [[tweets]](https://x.com/jaseweston/status/1978185306999341256)
+- [X] **WaltzRL** [[paper]](https://arxiv.org/abs/2510.08240) [[tweets]](https://x.com/jaseweston/status/1978185306999341256)
   _Method to improve safety alignment through multi-agent RL_
 
 - [x] **RLHI** [[paper]](https://x.com/jaseweston/status/1972851921255051489) [[tweets]](https://x.com/jaseweston/status/1972851921255051489)
