@@ -126,7 +126,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _synthetic data & data quality_
 
-- **CoT-Self-Instruct** [[paper]](https://arxiv.org/abs/2507.23751)
+- [X] **CoT-Self-Instruct** [[paper]](https://arxiv.org/abs/2507.23751)
   _Create synthetic data using reasoning followed by filtering for high quality, for large gains._
 
 - [x] **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
