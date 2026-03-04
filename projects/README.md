@@ -132,7 +132,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [x] **RIP** [[paper]](https://arxiv.org/abs/2501.18578)
   _A method to *curate* high quality data, or *create* high quality synthetic data. Gives large improvements._
   
-- **Recycling the Web** [[paper]](https://arxiv.org/abs/2506.04689)
+- [X] **Recycling the Web** [[paper]](https://arxiv.org/abs/2506.04689)
   _A method to create more high quality pretraining data via rewriting low quality documents._
   
 - [X] **Instruction Back-and-Forth Translation** [[paper]](https://arxiv.org/abs/2408.04614)
