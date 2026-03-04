@@ -193,7 +193,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Thinking LLMs** [[paper]](https://arxiv.org/abs/2410.10630).
   _Train LLMs to write down its internal thoughts before responding to general instructions._
 
-- **Meta-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2407.19594)
+- [X] **Meta-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2407.19594)
   _LLMs that can judge their own judgments to self-improve both acting & evaluating actions._
 
 - [X] **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
