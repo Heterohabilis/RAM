@@ -56,7 +56,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 
 #### _inference_
 
-- [ ]**From decoding to meta-generation** [[paper]](https://arxiv.org/abs/2406.16838).
+- [ ] **From decoding to meta-generation** [[paper]](https://arxiv.org/abs/2406.16838).
   _Survey paper on reasoning methods._
 
 - [X] **System 2 Attention** [[paper]](https://arxiv.org/abs/2311.11829).
