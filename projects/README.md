@@ -199,7 +199,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Iterative Reasoning Preference Optimization** [[paper]](https://arxiv.org/abs/2404.19733)
   _Shows how to improve reasoning tasks with iterative DPO._
 
-- **Length Following** [[project]](length_instruct)
+- [X] **Length Following** [[project]](length_instruct)
   _Method to make LLMs follow length instructions much better & removing length bias in evaluations._
 
 - [X] **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
