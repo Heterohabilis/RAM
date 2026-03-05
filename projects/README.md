@@ -91,7 +91,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **J1** [[paper]](https://arxiv.org/abs/2505.10320).
   _Learns CoTs for LLM-as-a-Judge via GRPO, outperforms EvalPlanner & Distilled R1 models at 8B and 70B scale._
 
-- **Eval-Planner** [[paper]](https://arxiv.org/abs/2501.18099)).
+- [X] **Eval-Planner** [[paper]](https://arxiv.org/abs/2501.18099)).
   _Learning powerful plan+execution CoTs for LLM-as-a-Judge critics, SOTA on RewardBench._
 
 - **Self-Taught Evaluators** [[project]](./self_taught_evaluator).
