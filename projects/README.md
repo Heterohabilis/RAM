@@ -94,7 +94,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Eval-Planner** [[paper]](https://arxiv.org/abs/2501.18099)).
   _Learning powerful plan+execution CoTs for LLM-as-a-Judge critics, SOTA on RewardBench._
 
-- **Self-Taught Evaluators** [[project]](./self_taught_evaluator).
+- [X] **Self-Taught Evaluators** [[project]](./self_taught_evaluator).
   _Improving LLM-as-a-Judge using iteratively generated synthetic data only (no human annotation)._
 
 - **Branch-Solve-Merge** [[paper]](https://arxiv.org/abs/2310.15123).
