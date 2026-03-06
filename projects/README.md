@@ -205,7 +205,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
   _Shows LLMs can judge themselves to self-improve without human feedback._
 
-- **Iterative DPO & Cringe Loss** [[paper]](https://arxiv.org/abs/2312.16682)
+- [X] **Iterative DPO & Cringe Loss** [[paper]](https://arxiv.org/abs/2312.16682)
   _Shows iterative learning improves alignment._
 
 #### _(self-)alignment via other methods_
