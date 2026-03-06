@@ -97,7 +97,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Self-Taught Evaluators** [[project]](./self_taught_evaluator).
   _Improving LLM-as-a-Judge using iteratively generated synthetic data only (no human annotation)._
 
-- **Branch-Solve-Merge** [[paper]](https://arxiv.org/abs/2310.15123).
+- [X] **Branch-Solve-Merge** [[paper]](https://arxiv.org/abs/2310.15123).
   _Reasoning method to improve LLM Evaluation and Generation._
 
 - [X] **Self-Rewarding LLMs** [[paper]](https://arxiv.org/abs/2401.10020)
