@@ -242,7 +242,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Stochastic activations** [[paper]](https://arxiv.org/abs/2509.22358)  [[tweets]](https://x.com/jaseweston/status/1972649914233389062)
   _Select between several non-linear functions in the feed-forward layers of an LLM._
 
-- **Multi-token attention** [[project]](mta)  [[paper]](https://arxiv.org/abs/2504.00927)
+- [X] **Multi-token attention** [[project]](mta)  [[paper]](https://arxiv.org/abs/2504.00927)
   _Attention mechanism that can focus on multiple tokens simultaneously_.
 
 - **Byte Latent Transformer** [[paper]](https://arxiv.org/abs/2412.09871)
