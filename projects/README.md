@@ -248,7 +248,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Byte Latent Transformer** [[paper]](https://arxiv.org/abs/2412.09871)
   _New Byte-level LLM architecture that matches tokenization-based LLM performance at scale._
 
-- **Adaptive Decoding via Latent Preference Optimization** [[paper]](https://arxiv.org/abs/2411.09661)
+- [X] **Adaptive Decoding via Latent Preference Optimization** [[paper]](https://arxiv.org/abs/2411.09661)
   _New layer that selects decoding params automatically *per token*_.
 
 - **Contextual Position Encoding** [[project]](cope)
