@@ -254,5 +254,5 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Contextual Position Encoding** [[project]](cope)
   _New attention mechanism that fixes problems in copying & counting for Transformers_.
 
-- **Branch-Train-MiX** [[paper]](https://arxiv.org/abs/2403.07816)
+- [X] **Branch-Train-MiX** [[paper]](https://arxiv.org/abs/2403.07816)
   _Novel MoE architecture that is very efficient during training._
