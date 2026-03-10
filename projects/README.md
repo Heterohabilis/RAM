@@ -251,7 +251,7 @@ Here we list projects undertaken in the RAM framework that are shared publicly, 
 - [X] **Adaptive Decoding via Latent Preference Optimization** [[paper]](https://arxiv.org/abs/2411.09661)
   _New layer that selects decoding params automatically *per token*_.
 
-- **Contextual Position Encoding** [[project]](cope)
+- [X] **Contextual Position Encoding** [[project]](cope)
   _New attention mechanism that fixes problems in copying & counting for Transformers_.
 
 - **Branch-Train-MiX** [[paper]](https://arxiv.org/abs/2403.07816)
